@@ -5,9 +5,9 @@
 ### 우측 상단 Fork
 
 ### Sourcetree
-https://www.sourcetreeapp.com/
+* https://www.sourcetreeapp.com/
 
 ### Terminal
-git clone https://github.com/`USERNAME`/Development-study.git
+* git clone https://github.com/`USERNAME`/Development-study.git
 
 
